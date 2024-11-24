@@ -2,9 +2,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
 
-**Awesome Smol Models** is a curated list of small, lightweight AI models, tools, and resources for domains like **language**, **audio**, **vision**, and **multimodal tasks**. These models are designed for edge devices, resource-constrained environments, and rapid prototyping.  
+**Awesome Smol Models** is a curated list of small, lightweight AI models, tools, and resources for domains like **language**, **audio**, **vision**, and **multimodal tasks**. These models are designed for edge devices, resource-constrained environments, and rapid prototyping.
 
-Inspired by: [awesome-tensorflow-lite - @margaretmz](https://github.com/margaretmz/awesome-tensorflow-lite)  
+Inspiration: [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite).  
 
 ### **What are Smol Models?**
 
@@ -114,7 +114,7 @@ Pre-trained lightweight models ready for deployment:
 ## **Resources**
 
 ### Practical Guides
-- [Edge-AI core concepts for all leves](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/)
+- [Edge-AI core concepts for all levels](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/)
 - [ML Optimization Resources](https://github.com/afondiel/computer-science-notebook/tree/master/core/ai-ml/ml-notes/model-optimization)
   
 ### Crash-Courses & Moocs
@@ -123,9 +123,9 @@ Pre-trained lightweight models ready for deployment:
 
 ### **Blogs** 
 - [Optimizing Generative AI for Edge Devices](https://www.qualcomm.com/news/onq/2023/12/optimizing-generative-ai-for-edge-devices)
-- [Deploying ML Models on The Edge - @](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2019/cdn.oreillystatic.com/en/assets/1/event/299/Deploying%20machine%20learning%20models%20on%20the%20edge%20Presentation.pdf)  
+- [Deploying ML Models on The Edge - @Microsoft](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2019/cdn.oreillystatic.com/en/assets/1/event/299/Deploying%20machine%20learning%20models%20on%20the%20edge%20Presentation.pdf)  
 - [Fine-Tuning Small Language Models - Kili](https://kili-technology.com/large-language-models-llms/a-guide-to-using-small-language-models#fine-tuning-small-language-models)
-- [](https://www.qualcomm.com/news/onq/2023/09/ai-on-the-edge-the-latest-on-device-ai-insights-and-trends)  
+- [AI on the edge: latest insights and trends @Qualcomm](https://www.qualcomm.com/news/onq/2023/09/ai-on-the-edge-the-latest-on-device-ai-insights-and-trends)  
 
 ### **Deep Dive Podcasts**
 - [SmolLM2 Released: A Series (0.1B, 0.3B, and 1.7B) of Small Language Models for OnDevice Applications](https://www.youtube.com/watch?v=7J0PAffn-QU)
