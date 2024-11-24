@@ -125,7 +125,10 @@ Pre-trained lightweight models ready for deployment:
 - [Optimizing Generative AI for Edge Devices](https://www.qualcomm.com/news/onq/2023/12/optimizing-generative-ai-for-edge-devices)
 - [Deploying ML Models on The Edge - @Microsoft](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2019/cdn.oreillystatic.com/en/assets/1/event/299/Deploying%20machine%20learning%20models%20on%20the%20edge%20Presentation.pdf)  
 - [Fine-Tuning Small Language Models - Kili](https://kili-technology.com/large-language-models-llms/a-guide-to-using-small-language-models#fine-tuning-small-language-models)
-- [AI on the edge: latest insights and trends @Qualcomm](https://www.qualcomm.com/news/onq/2023/09/ai-on-the-edge-the-latest-on-device-ai-insights-and-trends)  
+- [AI on the edge: latest insights and trends @Qualcomm](https://www.qualcomm.com/news/onq/2023/09/ai-on-the-edge-the-latest-on-device-ai-insights-and-trends)
+- [Small is the new big: the rise of small language models - Capgemini](https://www.capgemini.com/be-en/insights/expert-perspectives/small-is-the-new-big-the-rise-of-small-language-models/)
+- [The 5 leading small language models of 2024: Phi 3, Llama 3, and more - DSDojo](https://datasciencedojo.com/blog/small-language-models-phi-3/)
+- [7 Steps to Running a Small Language Model on a Local CPU](https://www.kdnuggets.com/7-steps-to-running-a-small-language-model-on-a-local-cpu)
 
 ### **Deep Dive Podcasts**
 - [SmolLM2 Released: A Series (0.1B, 0.3B, and 1.7B) of Small Language Models for OnDevice Applications](https://www.youtube.com/watch?v=7J0PAffn-QU)
