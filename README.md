@@ -34,7 +34,7 @@ Your contributions are warmly welcome! Submit a pull request (PR) following the 
 - [Pretrained Models Hub](#pretrained-models-hub)  
 - [Tools and Frameworks](#tools-and-frameworks)
 - [AI Frontier solution at the Edge](#ai-frontier-solution-at-the-edge)
-- [AI Latest News & Releases](#ai-latest-news--releases)  
+- [AI News & Announcements](#ai-news--announcements)  
 - [Resources](#resources)  
 
 ## **Language Models**
