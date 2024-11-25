@@ -88,7 +88,7 @@ Pre-trained lightweight models ready for deployment:
 - [Tensorflow Hub](https://www.tensorflow.org/hub): A repository of trained machine learning models.
 - [Pytorch Hub](https://pytorch.org/hub/): Discover and publish models to a pre-trained model repository designed for research exploration.  
 
-## **Other On-Device Resources**  
+## **Other Related Resources**  
 - [edge-ai - @crespum](https://github.com/crespum/edge-ai)  
 - [awesome-tensorflow-lite - @margaretmz](https://github.com/margaretmz/awesome-tensorflow-lite)
 - [Smol Vision - @merveenoyan](https://github.com/merveenoyan/smol-vision)  
