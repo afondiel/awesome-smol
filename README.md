@@ -31,7 +31,7 @@ Your contributions are warmly welcome! Submit a pull request (PR) following the 
 - [Audio Models](#audio-models)  
 - [Vision Models](#vision-models)  
 - [Multimodal Models](#multimodal-models)  
-- [HuggingFace and Model Zoo Smol Models](#huggingface-and-model-zoo-smol-models)  
+- [Pretrained Models Hub](#pretrained-models-hub)  
 - [Tools and Frameworks](#tools-and-frameworks)
 - [AI Frontier solution at the Edge](#ai-frontier-solution-at-the-edge)
 - [AI Latest News & Releases](#ai-latest-news--releases)  
@@ -80,10 +80,13 @@ Your contributions are warmly welcome! Submit a pull request (PR) following the 
 | TinyCLIP         | Vision-Language       | Edge, IoT            | [Hugging Face](https://huggingface.co/openai/clip)              |  
 | Mini-ALIGN       | Vision-Language       | Mobile, Edge         | [GitHub](https://github.com/google-research/align)              |  
 
-## **HuggingFace and Model Zoo Smol Models**  
+## **Pretrained Models Hub**  
 Pre-trained lightweight models ready for deployment:  
-- [Hugging Face Pretrained Smol Models](https://huggingface.co/models?sort=trending&search=smol)  
-- [Model Zoo Models Categories](https://modelzoo.co/categories)  
+- [Hugging Face Pretrained Smol Models](https://huggingface.co/models?sort=trending&search=smol): Ready-to-deploy smol models with associated datasets, and demo apps (Spaces).  
+- [Model Zoo Models Categories](https://modelzoo.co/categories): Open source deep learning code and pretrained models.
+- [Kaggle Pre-trained Models](https://www.kaggle.com/models): Use and download pre-trained models for your machine learning projects.
+- [Tensorflow Hub](https://www.tensorflow.org/hub): A repository of trained machine learning models.
+- [Pytorch Hub](https://pytorch.org/hub/): Discover and publish models to a pre-trained model repository designed for research exploration.  
 
 ## **Other On-Device Resources**  
 - [edge-ai - @crespum](https://github.com/crespum/edge-ai)  
