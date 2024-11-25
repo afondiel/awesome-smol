@@ -124,7 +124,8 @@ Pre-trained lightweight models ready for deployment:
 - [Introduction to On-Device AI - Qualcomm](https://github.com/afondiel/Introduction-to-On-Device-AI-DLAI)
 - [Introduction to edge AI - Edge Impulse](https://docs.edgeimpulse.com/docs/concepts/edge-ai/intro-to-edge-ai)
 
-### **Blogs** 
+### **Blogs**
+- [Why Small Language Models (SLMs) Are The Next Big Thing In AI - Forbes (2024/11/25)](https://www.forbes.com/sites/deandebiase/2024/11/25/why-small-language-models-are-the-next-big-thing-in-ai/)
 - [Optimizing Generative AI for Edge Devices](https://www.qualcomm.com/news/onq/2023/12/optimizing-generative-ai-for-edge-devices)
 - [Deploying ML Models on The Edge - @Microsoft](https://conferences.oreilly.com/artificial-intelligence/ai-eu-2019/cdn.oreillystatic.com/en/assets/1/event/299/Deploying%20machine%20learning%20models%20on%20the%20edge%20Presentation.pdf)  
 - [Fine-Tuning Small Language Models - Kili](https://kili-technology.com/large-language-models-llms/a-guide-to-using-small-language-models#fine-tuning-small-language-models)
