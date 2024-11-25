@@ -108,7 +108,7 @@ Pre-trained lightweight models ready for deployment:
 - [Edge AI + Vision Alliance](https://www.edge-ai-vision.com/)
 - [Edge AI Foundation](https://www.edgeaifoundation.org/)
 
-## **AI Latest News & Releases**
+## **AI News & Announcements**
 - 2024/09/25 [Meta - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
 
 ## **Resources**
