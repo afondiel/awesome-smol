@@ -142,3 +142,8 @@ Pre-trained lightweight models ready for deployment:
 ### **Books**  
 - [Machine Learning Systems - Vijay Janapa Reddi / Harvard (online & interactive book)](https://mlsysbook.ai/)  
 - [Edge-AI Books Collection - @cs-books](https://github.com/afondiel/cs-books/edge)
+
+### Research Papers
+
+- 2024/06/16 [Super Tiny Language Models](https://arxiv.org/pdf/2405.14159)
+- 2024/06/11 [Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis ](https://arxiv.org/pdf/2406.04467)
