@@ -113,6 +113,8 @@ Pre-trained lightweight models ready for deployment:
 
 ## **AI News & Announcements**
 - 2024/09/25 [Meta - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
+- 2024/11/26 [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)
+- 2024/07/16 [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
 
 ## **Resources**
 
