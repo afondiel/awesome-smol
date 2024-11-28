@@ -113,9 +113,9 @@ Pre-trained lightweight models ready for deployment:
 - [Edge AI Foundation](https://www.edgeaifoundation.org/)
 
 ## **AI News & Announcements**
-- 2024/09/25 [Meta - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
-- 2024/11/26 [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)
-- 2024/07/16 [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
+- **<img src="./resources/new_tag.png" alt="new" width="30" height="30"/>[2024/11/26]** [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)
+- **[2024/09/25]** [Meta - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
+- **[2024/07/16]** [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
 
 ## **Resources**
 
@@ -146,6 +146,6 @@ Pre-trained lightweight models ready for deployment:
 
 ### Research Papers
 
-- 2024/06/16 [Super Tiny Language Models](https://arxiv.org/pdf/2405.14159)
-- 2024/06/11 [Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis ](https://arxiv.org/pdf/2406.04467)
-- 2023/04/28 [EDGE IMPULSE: AN MLOPS PLATFORM FOR TINY MACHINE LEARNING](https://arxiv.org/pdf/2212.03332)
+- **[2024/06/16]** [Super Tiny Language Models](https://arxiv.org/pdf/2405.14159)
+- **[2024/06/11]** [Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis ](https://arxiv.org/pdf/2406.04467)
+- **[2023/04/28]** [EDGE IMPULSE: AN MLOPS PLATFORM FOR TINY MACHINE LEARNING](https://arxiv.org/pdf/2212.03332)
