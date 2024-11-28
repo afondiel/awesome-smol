@@ -8,7 +8,7 @@ Inspiration: [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-ten
 
 ### **What are Smol Models?**
 
-<img alt="smol ecosystem" width="800" height="621" src="https://pbs.twimg.com/media/GbPSEtWbgAAwGb2?format=png&name=large" />
+<img alt="smol ecosystem" width="800" height="621" src="./resources/smolLM-hf-large.jpeg" />
 
 (Source: [Link](https://x.com/LoubnaBenAllal1/status/1852055587275895188))
 
@@ -61,7 +61,7 @@ Your contributions are warmly welcome! Submit a pull request (PR) following the 
 | HiFi-GAN Mini     | Audio Enhancement  | Mobile, IoT          | [GitHub](https://github.com/jik876/hifi-gan)                    |  
 | MatchboxNet Small | Keyword Spotting   | Edge, IoT            | [Hugging Face](https://huggingface.co/speechbrain/matchboxnet-small) |  
 
-## **Vision Models**  
+## **Vision Models**
 
 | **Model**                | **Task**             | **Platform**         | **References**                                                  |  
 |---------------------------|----------------------|----------------------|------------------------------------------------------------------|  
