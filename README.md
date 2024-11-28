@@ -147,3 +147,4 @@ Pre-trained lightweight models ready for deployment:
 
 - 2024/06/16 [Super Tiny Language Models](https://arxiv.org/pdf/2405.14159)
 - 2024/06/11 [Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis ](https://arxiv.org/pdf/2406.04467)
+- 2023/04/28 [EDGE IMPULSE: AN MLOPS PLATFORM FOR TINY MACHINE LEARNING](https://arxiv.org/pdf/2212.03332)
