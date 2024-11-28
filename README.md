@@ -8,7 +8,7 @@ Inspiration: [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-ten
 
 ### **What are Smol Models?**
 
-<img alt="smol ecosystem" width="800" height="621" src="https://pbs.twimg.com/media/GbPSEtWbgAAwGb2?format=png&name=large" />
+<img alt="smol ecosystem" width="800" height="621" src="./resources/smolLM-hf-large.png"/>
 
 (Source: [Link](https://x.com/LoubnaBenAllal1/status/1852055587275895188))
 
@@ -61,7 +61,7 @@ Your contributions are warmly welcome! Submit a pull request (PR) following the 
 | HiFi-GAN Mini     | Audio Enhancement  | Mobile, IoT          | [GitHub](https://github.com/jik876/hifi-gan)                    |  
 | MatchboxNet Small | Keyword Spotting   | Edge, IoT            | [Hugging Face](https://huggingface.co/speechbrain/matchboxnet-small) |  
 
-## **Vision Models**  
+## **Vision Models**
 
 | **Model**                | **Task**             | **Platform**         | **References**                                                  |  
 |---------------------------|----------------------|----------------------|------------------------------------------------------------------|  
@@ -113,6 +113,8 @@ Pre-trained lightweight models ready for deployment:
 
 ## **AI News & Announcements**
 - 2024/09/25 [Meta - Llama 3.2: Revolutionizing edge AI and vision with open, customizable models](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
+- 2024/11/26 [SmolVLM - small yet mighty Vision Language Model](https://huggingface.co/blog/smolvlm)
+- 2024/07/16 [SmolLM - blazingly fast and remarkably powerful](https://huggingface.co/blog/smollm)
 
 ## **Resources**
 
@@ -140,3 +142,8 @@ Pre-trained lightweight models ready for deployment:
 ### **Books**  
 - [Machine Learning Systems - Vijay Janapa Reddi / Harvard (online & interactive book)](https://mlsysbook.ai/)  
 - [Edge-AI Books Collection - @cs-books](https://github.com/afondiel/cs-books/edge)
+
+### Research Papers
+
+- 2024/06/16 [Super Tiny Language Models](https://arxiv.org/pdf/2405.14159)
+- 2024/06/11 [Small-E: Small Language Model with Linear Attention for Efficient Speech Synthesis ](https://arxiv.org/pdf/2406.04467)
