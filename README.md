@@ -8,7 +8,7 @@ Inspiration: [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-ten
 
 ### **What are Smol Models?**
 
-<img alt="smol ecosystem" width="800" height="621" src="./resources/smolLM-hf-large.jpeg" />
+<img alt="smol ecosystem" width="800" height="621" src="./resources/smolLM-hf-large.png"/>
 
 (Source: [Link](https://x.com/LoubnaBenAllal1/status/1852055587275895188))
 
