@@ -1,6 +1,7 @@
 # Awesome Smol Models  
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![](https://img.shields.io/badge/Contribute-Welcome-green)](./CONTRIBUTING.md) [![](https://img.shields.io/badge/license-Apache--2.0-black)](./LICENSE)
+
 
 **Awesome Smol Models** is a curated list of small, lightweight AI models, tools, and resources for domains like **language**, **audio**, **vision**, and **multimodal tasks**. These models are designed for edge devices, resource-constrained environments, and rapid prototyping.
 
