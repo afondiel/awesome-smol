@@ -92,7 +92,8 @@ Pre-trained lightweight models ready for deployment:
 ## **Other Related Resources**  
 - [edge-ai - @crespum](https://github.com/crespum/edge-ai)  
 - [awesome-tensorflow-lite - @margaretmz](https://github.com/margaretmz/awesome-tensorflow-lite)
-- [Smol Vision - @merveenoyan](https://github.com/merveenoyan/smol-vision)  
+- [Smol Vision - @merveenoyan](https://github.com/merveenoyan/smol-vision)
+- [Edge AI Model Zoo - @afondiel](https://github.com/afondiel/EdgeAI-Model-Zoo) 
 
 ## **Tools and Frameworks**
 - [LiteRT - formerly TensorFlow Lite](https://ai.google.dev/edge/litert): Lightweight model deployment for Android.
