@@ -33,6 +33,7 @@ Your contributions are warmly welcome! Submit a pull request (PR) following the 
 - [Vision Models](#vision-models)  
 - [Multimodal Models](#multimodal-models)  
 - [Pretrained Models Hub](#pretrained-models-hub)  
+- [Other Insightful Lists](#other-insightful-lists)  
 - [Tools and Frameworks](#tools-and-frameworks)
 - [AI Frontier solution at the Edge](#ai-frontier-solution-at-the-edge)
 - [AI News & Announcements](#ai-news--announcements)  
@@ -89,7 +90,7 @@ Pre-trained lightweight models ready for deployment:
 - [Tensorflow Hub](https://www.tensorflow.org/hub): A repository of trained machine learning models.
 - [Pytorch Hub](https://pytorch.org/hub/): Discover and publish models to a pre-trained model repository designed for research exploration.  
 
-## **Other Related Resources**  
+## **Other Insightful Lists**  
 - [edge-ai - @crespum](https://github.com/crespum/edge-ai)  
 - [awesome-tensorflow-lite - @margaretmz](https://github.com/margaretmz/awesome-tensorflow-lite)
 - [Smol Vision - @merveenoyan](https://github.com/merveenoyan/smol-vision)
