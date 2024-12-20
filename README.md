@@ -1,4 +1,4 @@
-# Awesome Smol Models  
+# Awesome Smol  
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![](https://img.shields.io/badge/Contribute-Welcome-green)](./CONTRIBUTING.md) [![](https://img.shields.io/badge/license-Apache--2.0-black)](./LICENSE)
 
