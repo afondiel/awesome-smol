@@ -51,6 +51,7 @@ Your contributions are warmly welcome! Submit a pull request (PR) following the 
 | TinyLlama                 | Conversational AI  | Edge, IoT         | [Hugging Face](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) |  
 | Phi-3                     | Text Generation    | Mobile, Edge      | [Hugging Face](https://huggingface.co/microsoft/phi-2)          |  
 | Gemma 2                   | Multilingual NLP   | Mobile, Desktop   | [Hugging Face](https://huggingface.co/google/gemma-2b)          |  
+| Phocinae-Largha-150M-v1 | Structured Decision Making | CPU, GPU, Edge | [Hugging Face](https://huggingface.co/Phocinae/Phocinae-Largha-150M-v1) |  
 
 ## **Audio Models**
 
